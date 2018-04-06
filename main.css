@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  /* display: flex; */
+  width: 100%;
+  background: #F5F5F5;
+  color: #444;
+  font-family: "Helvetica Neue", Arial, serif;
+  margin: 0;
+  padding: 0;
+}
+
+header h1 {
+  text-align: center;
+}
+
+section {
+  background-color: #fff;
+  margin: 25px;
+  padding: 25px;
+}
+
+canvas {
+  width: 100%;
+  display: block;
+}
